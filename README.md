@@ -20,7 +20,7 @@ $ docker-compose logs -f
 
 ## Client Setup
 
-Connect PPTP server using `username:password` with NO `mschap-v2/mppe-128` encyption.
+Connect PPTP server using `vpnuser:vpnpassword` with NO `mschap-v2/mppe-128` encyption.
 
 ## References
 
