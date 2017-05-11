@@ -10,7 +10,7 @@ The Point-to-Point Tunneling Protocol is a method for implementing virtual priva
 ## Server Setup
 
 ```bash
-$ modprobe modprobe ip_nat_pptp
+$ modprobe ip_nat_pptp
 $ git clone https://github.com/lihaixin/pptpd.git
 $ cd pptpd
 $ docker-compose up -d
